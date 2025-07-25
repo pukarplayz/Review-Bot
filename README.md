@@ -38,7 +38,7 @@ review-bot/
 1. **Clone the repo:**
 
 ```bash
-git clone https://github.com/yourusername/review-bot.git
+git clone [https://github.com/pukarplayz/Review-Bot.git](https://github.com/pukarplayz/Review-Bot/)
 cd review-bot
 ```
 
